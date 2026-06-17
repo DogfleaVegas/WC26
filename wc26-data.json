@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-17T21:47:12.994Z",
-    "lastUpdated": "2026-06-17T21:47:12.994Z",
+    "version": "2026-06-17T21:48:12.997Z",
+    "lastUpdated": "2026-06-17T21:48:12.997Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -401,7 +401,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 10",
       "flagHome": "de",
       "flagAway": "ci"
@@ -431,7 +431,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 15",
       "flagHome": "cw",
       "flagAway": "ci"
@@ -446,7 +446,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 15",
       "flagHome": "ec",
       "flagAway": "de"
@@ -1027,7 +1027,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 13",
       "flagHome": "gb-eng",
       "flagAway": "gh"
@@ -1098,7 +1098,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "62'",
+      "minute": "63'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1319,7 +1319,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1397,7 +1397,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null

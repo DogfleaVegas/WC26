@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-17T19:02:12.702Z",
-    "lastUpdated": "2026-06-17T19:02:12.702Z",
+    "version": "2026-06-17T19:03:12.703Z",
+    "lastUpdated": "2026-06-17T19:03:12.703Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -19,7 +19,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 0,
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Matchday 1",
       "flagHome": null,
       "flagAway": "za"
@@ -101,7 +101,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -142,7 +142,7 @@
       "away": "Qatar",
       "group": "Group B",
       "status": "NS",
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "qa"
@@ -429,7 +429,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 4",
       "flagHome": "nl",
       "flagAway": "jp"
@@ -675,7 +675,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 6",
       "flagHome": "fr",
       "flagAway": "sn"
@@ -729,7 +729,7 @@
       "away": "France",
       "group": "Group I",
       "status": "NS",
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -742,7 +742,7 @@
       "away": "Iraq",
       "group": "Group I",
       "status": "NS",
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -836,7 +836,9 @@
       "home": "Portugal",
       "away": "DR Congo",
       "group": "Group K",
-      "status": "NS",
+      "status": "FT",
+      "homeScore": 1,
+      "awayScore": 1,
       "minute": "120+30'",
       "channel": "Matchday 7",
       "flagHome": "pt",
@@ -915,7 +917,7 @@
       "away": "Croatia",
       "group": "Group L",
       "status": "NS",
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 7",
       "flagHome": "gb-eng",
       "flagAway": "hr"
@@ -1110,7 +1112,7 @@
       "away": "3A/E/H/I/J",
       "group": "",
       "status": "NS",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1188,7 +1190,7 @@
       "away": "2G",
       "group": "",
       "status": "NS",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1253,7 +1255,7 @@
       "away": "W84",
       "group": "",
       "status": "NS",
-      "minute": "47'",
+      "minute": "48'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1292,7 +1294,7 @@
       "away": "W87",
       "group": "",
       "status": "NS",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1357,7 +1359,7 @@
       "away": "W98",
       "group": "",
       "status": "NS",
-      "minute": "47'",
+      "minute": "48'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1370,7 +1372,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1396,7 +1398,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null
@@ -1662,24 +1664,23 @@
         "gd": "-2",
         "flag": "jo"
       }
+    ],
+    "Group K": [
+      {
+        "team": "Portugal",
+        "pts": 1,
+        "gd": "0",
+        "flag": "pt"
+      },
+      {
+        "team": "DR Congo",
+        "pts": 1,
+        "gd": "0",
+        "flag": "cd"
+      }
     ]
   },
   "recentResults": [
-    {
-      "id": 14,
-      "date": "2026-06-13",
-      "kickoff": "21:00 UTC-4",
-      "home": "Haiti",
-      "away": "Scotland",
-      "group": "Group C",
-      "status": "FT",
-      "homeScore": 0,
-      "awayScore": 1,
-      "minute": null,
-      "channel": "Matchday 3",
-      "flagHome": "ht",
-      "flagAway": "gb-sct"
-    },
     {
       "id": 19,
       "date": "2026-06-12",
@@ -1750,7 +1751,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 4",
       "flagHome": "nl",
       "flagAway": "jp"
@@ -1840,7 +1841,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "2'",
+      "minute": "3'",
       "channel": "Matchday 6",
       "flagHome": "fr",
       "flagAway": "sn"
@@ -1889,6 +1890,21 @@
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"
+    },
+    {
+      "id": 61,
+      "date": "2026-06-17",
+      "kickoff": "12:00 UTC-5",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "group": "Group K",
+      "status": "FT",
+      "homeScore": 1,
+      "awayScore": 1,
+      "minute": "120+30'",
+      "channel": "Matchday 7",
+      "flagHome": "pt",
+      "flagAway": "cd"
     }
   ],
   "playersToWatch": [

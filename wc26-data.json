@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-17T19:45:12.744Z",
-    "lastUpdated": "2026-06-17T19:45:12.744Z",
+    "version": "2026-06-17T19:46:12.745Z",
+    "lastUpdated": "2026-06-17T19:46:12.745Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -109,7 +109,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -152,7 +152,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "qa"
@@ -791,7 +791,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -806,7 +806,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -997,7 +997,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Matchday 7",
       "flagHome": "gb-eng",
       "flagAway": "hr"
@@ -1345,7 +1345,7 @@
       "away": "W84",
       "group": "",
       "status": "NS",
-      "minute": "90'",
+      "minute": "91+1'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1449,7 +1449,7 @@
       "away": "W98",
       "group": "",
       "status": "NS",
-      "minute": "90'",
+      "minute": "91+1'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1462,7 +1462,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1488,7 +1488,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "45'",
+      "minute": "HT",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null

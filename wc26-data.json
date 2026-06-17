@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-17T21:57:13.038Z",
-    "lastUpdated": "2026-06-17T21:57:13.038Z",
+    "version": "2026-06-17T21:58:13.039Z",
+    "lastUpdated": "2026-06-17T21:58:13.039Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -375,7 +375,7 @@
       "away": "Ivory Coast",
       "group": "Group E",
       "status": "NS",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Matchday 10",
       "flagHome": "de",
       "flagAway": "ci"
@@ -401,7 +401,7 @@
       "away": "Ivory Coast",
       "group": "Group E",
       "status": "NS",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Matchday 15",
       "flagHome": "cw",
       "flagAway": "ci"
@@ -414,7 +414,7 @@
       "away": "Germany",
       "group": "Group E",
       "status": "NS",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Matchday 15",
       "flagHome": "ec",
       "flagAway": "de"
@@ -943,7 +943,7 @@
       "away": "Ghana",
       "group": "Group L",
       "status": "NS",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Matchday 13",
       "flagHome": "gb-eng",
       "flagAway": "gh"
@@ -1008,7 +1008,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "72'",
+      "minute": "73'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1229,7 +1229,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1307,7 +1307,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null

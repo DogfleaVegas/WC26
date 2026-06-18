@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T22:53:15.287Z",
-    "lastUpdated": "2026-06-18T22:53:15.287Z",
+    "version": "2026-06-18T22:54:15.287Z",
+    "lastUpdated": "2026-06-18T22:54:15.287Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -707,7 +707,7 @@
       "away": "Iraq",
       "group": "Group I",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 12",
       "flagHome": "fr",
       "flagAway": "iq"
@@ -979,7 +979,7 @@
       "away": "England",
       "group": "Group L",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 17",
       "flagHome": "pa",
       "flagAway": "gb-eng"
@@ -992,7 +992,7 @@
       "away": "Ghana",
       "group": "Group L",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 17",
       "flagHome": "hr",
       "flagAway": "gh"
@@ -1057,7 +1057,7 @@
       "away": "3C/D/F/G/H",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1109,7 +1109,7 @@
       "away": "3B/E/F/I/J",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1213,7 +1213,7 @@
       "away": "W77",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1278,7 +1278,7 @@
       "away": "W82",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1343,7 +1343,7 @@
       "away": "W92",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1395,7 +1395,7 @@
       "away": "L102",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Match for third place",
       "flagHome": null,
       "flagAway": null

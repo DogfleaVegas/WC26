@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T02:41:13.243Z",
-    "lastUpdated": "2026-06-18T02:41:13.243Z",
+    "version": "2026-06-18T02:42:13.243Z",
+    "lastUpdated": "2026-06-18T02:42:13.243Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -198,7 +198,7 @@
       "status": "FT",
       "homeScore": 0,
       "awayScore": 1,
-      "minute": "86'",
+      "minute": "87'",
       "channel": "Matchday 3",
       "flagHome": "ht",
       "flagAway": "gb-sct"
@@ -224,7 +224,7 @@
       "away": "Haiti",
       "group": "Group C",
       "status": "NS",
-      "minute": "116+26'",
+      "minute": "117+27'",
       "channel": "Matchday 9",
       "flagHome": "br",
       "flagAway": "ht"
@@ -280,7 +280,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 0,
-      "minute": "86'",
+      "minute": "87'",
       "channel": "Matchday 3",
       "flagHome": "au",
       "flagAway": null
@@ -470,7 +470,7 @@
       "away": "Japan",
       "group": "Group F",
       "status": "NS",
-      "minute": "41'",
+      "minute": "42'",
       "channel": "Matchday 10",
       "flagHome": "tn",
       "flagAway": "jp"
@@ -772,7 +772,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "86'",
+      "minute": "87'",
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"
@@ -811,7 +811,7 @@
       "away": "Austria",
       "group": "Group J",
       "status": "NS",
-      "minute": "86'",
+      "minute": "87'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -824,7 +824,7 @@
       "away": "Argentina",
       "group": "Group J",
       "status": "NS",
-      "minute": "86'",
+      "minute": "87'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1181,7 +1181,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "116+26'",
+      "minute": "117+27'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1886,7 +1886,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "86'",
+      "minute": "87'",
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"

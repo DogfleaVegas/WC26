@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T02:59:13.381Z",
-    "lastUpdated": "2026-06-18T02:59:13.381Z",
+    "version": "2026-06-18T03:00:13.383Z",
+    "lastUpdated": "2026-06-18T03:00:13.383Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -506,7 +506,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "HT",
+      "minute": "60'",
       "channel": "Matchday 10",
       "flagHome": "tn",
       "flagAway": "jp"
@@ -881,7 +881,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "104+14'",
+      "minute": "105+15'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -896,7 +896,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "104+14'",
+      "minute": "105+15'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"

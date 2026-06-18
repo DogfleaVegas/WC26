@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T02:50:13.314Z",
-    "lastUpdated": "2026-06-18T02:50:13.314Z",
+    "version": "2026-06-18T02:51:13.315Z",
+    "lastUpdated": "2026-06-18T02:51:13.315Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -198,7 +198,7 @@
       "status": "FT",
       "homeScore": 0,
       "awayScore": 1,
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 3",
       "flagHome": "ht",
       "flagAway": "gb-sct"
@@ -280,7 +280,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 0,
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 3",
       "flagHome": "au",
       "flagAway": null
@@ -772,7 +772,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"
@@ -811,7 +811,7 @@
       "away": "Austria",
       "group": "Group J",
       "status": "NS",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -824,7 +824,7 @@
       "away": "Argentina",
       "group": "Group J",
       "status": "NS",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1886,7 +1886,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"

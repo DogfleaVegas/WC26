@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T16:58:14.782Z",
-    "lastUpdated": "2026-06-18T16:58:14.782Z",
+    "version": "2026-06-18T16:59:14.784Z",
+    "lastUpdated": "2026-06-18T16:59:14.784Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -46,10 +46,10 @@
       "home": "Czech Republic",
       "away": "South Africa",
       "group": "Group A",
-      "status": "NS",
-      "homeScore": "0",
+      "status": "LIVE",
+      "homeScore": "1",
       "awayScore": "0",
-      "minute": "HT",
+      "minute": "live",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "za"

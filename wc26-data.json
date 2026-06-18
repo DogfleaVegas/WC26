@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T03:56:13.568Z",
-    "lastUpdated": "2026-06-18T03:56:13.568Z",
+    "version": "2026-06-18T03:57:13.571Z",
+    "lastUpdated": "2026-06-18T03:57:13.571Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -506,7 +506,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Matchday 10",
       "flagHome": "tn",
       "flagAway": "jp"

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-18T21:05:15.264Z",
-    "lastUpdated": "2026-06-18T21:05:15.264Z",
+    "version": "2026-06-18T21:06:15.266Z",
+    "lastUpdated": "2026-06-18T21:06:15.266Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -109,7 +109,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "110+20'",
+      "minute": "111+21'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -136,7 +136,9 @@
       "home": "Switzerland",
       "away": "Bosnia & Herzegovina",
       "group": "Group B",
-      "status": "NS",
+      "status": "FT",
+      "homeScore": 4,
+      "awayScore": 1,
       "minute": "120+30'",
       "channel": "Matchday 8",
       "flagHome": "ch",
@@ -152,7 +154,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "110+20'",
+      "minute": "111+21'",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "qa"
@@ -401,7 +403,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "50'",
+      "minute": "51'",
       "channel": "Matchday 10",
       "flagHome": "de",
       "flagAway": "ci"
@@ -431,7 +433,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "50'",
+      "minute": "51'",
       "channel": "Matchday 15",
       "flagHome": "cw",
       "flagAway": "ci"
@@ -446,7 +448,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "50'",
+      "minute": "51'",
       "channel": "Matchday 15",
       "flagHome": "ec",
       "flagAway": "de"
@@ -761,7 +763,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Matchday 12",
       "flagHome": "fr",
       "flagAway": "iq"
@@ -791,7 +793,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "110+20'",
+      "minute": "111+21'",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -806,7 +808,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "110+20'",
+      "minute": "111+21'",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -1027,7 +1029,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "50'",
+      "minute": "51'",
       "channel": "Matchday 13",
       "flagHome": "gb-eng",
       "flagAway": "gh"
@@ -1057,7 +1059,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Matchday 17",
       "flagHome": "pa",
       "flagAway": "gb-eng"
@@ -1072,7 +1074,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Matchday 17",
       "flagHome": "hr",
       "flagAway": "gh"
@@ -1098,7 +1100,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "35'",
+      "minute": "36'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1137,7 +1139,7 @@
       "away": "3C/D/F/G/H",
       "group": "",
       "status": "NS",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1189,7 +1191,7 @@
       "away": "3B/E/F/I/J",
       "group": "",
       "status": "NS",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1293,7 +1295,7 @@
       "away": "W77",
       "group": "",
       "status": "NS",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1319,7 +1321,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "50'",
+      "minute": "51'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1358,7 +1360,7 @@
       "away": "W82",
       "group": "",
       "status": "NS",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1397,7 +1399,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "50'",
+      "minute": "51'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1423,7 +1425,7 @@
       "away": "W92",
       "group": "",
       "status": "NS",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1462,7 +1464,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "110+20'",
+      "minute": "111+21'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1475,7 +1477,7 @@
       "away": "L102",
       "group": "",
       "status": "NS",
-      "minute": "5'",
+      "minute": "6'",
       "channel": "Match for third place",
       "flagHome": null,
       "flagAway": null
@@ -1488,7 +1490,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "110+20'",
+      "minute": "111+21'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null
@@ -1523,16 +1525,16 @@
     ],
     "Group B": [
       {
+        "team": "Switzerland",
+        "pts": 4,
+        "gd": "+3",
+        "flag": "ch"
+      },
+      {
         "team": "Canada",
         "pts": 1,
         "gd": "0",
         "flag": null
-      },
-      {
-        "team": "Bosnia & Herzegovina",
-        "pts": 1,
-        "gd": "0",
-        "flag": "ba"
       },
       {
         "team": "Qatar",
@@ -1541,10 +1543,10 @@
         "flag": "qa"
       },
       {
-        "team": "Switzerland",
+        "team": "Bosnia & Herzegovina",
         "pts": 1,
-        "gd": "0",
-        "flag": "ch"
+        "gd": "-3",
+        "flag": "ba"
       }
     ],
     "Group C": [

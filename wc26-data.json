@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-19T20:21:17.741Z",
-    "lastUpdated": "2026-06-19T20:21:17.741Z",
+    "version": "2026-06-19T20:22:17.743Z",
+    "lastUpdated": "2026-06-19T20:22:17.743Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -105,7 +105,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -150,7 +150,7 @@
       "status": "FT",
       "homeScore": 6,
       "awayScore": 0,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "qa"
@@ -383,7 +383,7 @@
       "away": "Ivory Coast",
       "group": "Group E",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Matchday 10",
       "flagHome": "de",
       "flagAway": "ci"
@@ -409,7 +409,7 @@
       "away": "Ivory Coast",
       "group": "Group E",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Matchday 15",
       "flagHome": "cw",
       "flagAway": "ci"
@@ -422,7 +422,7 @@
       "away": "Germany",
       "group": "Group E",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Matchday 15",
       "flagHome": "ec",
       "flagAway": "de"
@@ -437,7 +437,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 4",
       "flagHome": "nl",
       "flagAway": "jp"
@@ -683,7 +683,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 6",
       "flagHome": "fr",
       "flagAway": "sn"
@@ -737,7 +737,7 @@
       "away": "France",
       "group": "Group I",
       "status": "NS",
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -750,7 +750,7 @@
       "away": "Iraq",
       "group": "Group I",
       "status": "NS",
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -929,7 +929,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 2,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 7",
       "flagHome": "gb-eng",
       "flagAway": "hr"
@@ -957,7 +957,7 @@
       "away": "Ghana",
       "group": "Group L",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Matchday 13",
       "flagHome": "gb-eng",
       "flagAway": "gh"
@@ -1243,7 +1243,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1321,7 +1321,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1386,7 +1386,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1412,7 +1412,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null
@@ -1758,7 +1758,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 4",
       "flagHome": "nl",
       "flagAway": "jp"
@@ -1848,7 +1848,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 6",
       "flagHome": "fr",
       "flagAway": "sn"
@@ -1938,7 +1938,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 2,
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 7",
       "flagHome": "gb-eng",
       "flagAway": "hr"

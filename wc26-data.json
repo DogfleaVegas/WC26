@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-19T19:52:17.729Z",
-    "lastUpdated": "2026-06-19T19:52:17.729Z",
+    "version": "2026-06-19T19:53:17.731Z",
+    "lastUpdated": "2026-06-19T19:53:17.731Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1347,7 +1347,7 @@
       "away": "W84",
       "group": "",
       "status": "NS",
-      "minute": "97+7'",
+      "minute": "98+8'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1451,7 +1451,7 @@
       "away": "W98",
       "group": "",
       "status": "NS",
-      "minute": "97+7'",
+      "minute": "98+8'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null

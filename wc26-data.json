@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-19T22:14:17.839Z",
-    "lastUpdated": "2026-06-19T22:14:17.839Z",
+    "version": "2026-06-19T22:15:17.841Z",
+    "lastUpdated": "2026-06-19T22:15:17.841Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -191,7 +191,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 3",
       "flagHome": "br",
       "flagAway": "ma"
@@ -219,7 +219,7 @@
       "away": "Morocco",
       "group": "Group C",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 9",
       "flagHome": "gb-sct",
       "flagAway": "ma"
@@ -245,7 +245,7 @@
       "away": "Brazil",
       "group": "Group C",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 14",
       "flagHome": "gb-sct",
       "flagAway": "br"
@@ -258,7 +258,7 @@
       "away": "Haiti",
       "group": "Group C",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 14",
       "flagHome": "ma",
       "flagAway": "ht"
@@ -273,7 +273,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 1,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "py"
@@ -385,7 +385,7 @@
       "away": "Ivory Coast",
       "group": "Group E",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 10",
       "flagHome": "de",
       "flagAway": "ci"
@@ -411,7 +411,7 @@
       "away": "Ivory Coast",
       "group": "Group E",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 15",
       "flagHome": "cw",
       "flagAway": "ci"
@@ -424,7 +424,7 @@
       "away": "Germany",
       "group": "Group E",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 15",
       "flagHome": "ec",
       "flagAway": "de"
@@ -493,7 +493,7 @@
       "away": "Sweden",
       "group": "Group F",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 15",
       "flagHome": "jp",
       "flagAway": "se"
@@ -506,7 +506,7 @@
       "away": "Netherlands",
       "group": "Group F",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 15",
       "flagHome": "tn",
       "flagAway": "nl"
@@ -536,7 +536,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 5",
       "flagHome": "ir",
       "flagAway": "nz"
@@ -562,7 +562,7 @@
       "away": "Egypt",
       "group": "Group G",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 11",
       "flagHome": "nz",
       "flagAway": "eg"
@@ -618,7 +618,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 5",
       "flagHome": "sa",
       "flagAway": "uy"
@@ -644,7 +644,7 @@
       "away": "Cape Verde",
       "group": "Group H",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 11",
       "flagHome": "uy",
       "flagAway": "cv"
@@ -670,7 +670,7 @@
       "away": "Spain",
       "group": "Group H",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 16",
       "flagHome": "uy",
       "flagAway": "es"
@@ -700,7 +700,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 4,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 6",
       "flagHome": "iq",
       "flagAway": "no"
@@ -713,7 +713,7 @@
       "away": "Iraq",
       "group": "Group I",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 12",
       "flagHome": "fr",
       "flagAway": "iq"
@@ -959,7 +959,7 @@
       "away": "Ghana",
       "group": "Group L",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 13",
       "flagHome": "gb-eng",
       "flagAway": "gh"
@@ -985,7 +985,7 @@
       "away": "England",
       "group": "Group L",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 17",
       "flagHome": "pa",
       "flagAway": "gb-eng"
@@ -998,7 +998,7 @@
       "away": "Ghana",
       "group": "Group L",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 17",
       "flagHome": "hr",
       "flagAway": "gh"
@@ -1024,7 +1024,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "89'",
+      "minute": "90'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1063,7 +1063,7 @@
       "away": "3C/D/F/G/H",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1115,7 +1115,7 @@
       "away": "3B/E/F/I/J",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1180,7 +1180,7 @@
       "away": "2H",
       "group": "",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1219,7 +1219,7 @@
       "away": "W77",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1245,7 +1245,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1258,7 +1258,7 @@
       "away": "W80",
       "group": "",
       "status": "NS",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1284,7 +1284,7 @@
       "away": "W82",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1323,7 +1323,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1349,7 +1349,7 @@
       "away": "W92",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1401,7 +1401,7 @@
       "away": "L102",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Match for third place",
       "flagHome": null,
       "flagAway": null
@@ -1805,7 +1805,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 5",
       "flagHome": "ir",
       "flagAway": "nz"
@@ -1835,7 +1835,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 5",
       "flagHome": "sa",
       "flagAway": "uy"
@@ -1865,7 +1865,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 4,
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 6",
       "flagHome": "iq",
       "flagAway": "no"

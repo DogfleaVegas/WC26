@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-19T02:57:15.742Z",
-    "lastUpdated": "2026-06-19T02:57:15.742Z",
+    "version": "2026-06-19T02:58:15.745Z",
+    "lastUpdated": "2026-06-19T02:58:15.745Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -61,10 +61,10 @@
       "home": "Mexico",
       "away": "South Korea",
       "group": "Group A",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "1",
       "awayScore": "0",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "kr"
@@ -883,7 +883,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -898,7 +898,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "102+12'",
+      "minute": "103+13'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1500,14 +1500,14 @@
     "Group A": [
       {
         "team": "Mexico",
-        "pts": 3,
-        "gd": "+2",
+        "pts": 6,
+        "gd": "+3",
         "flag": null
       },
       {
         "team": "South Korea",
         "pts": 3,
-        "gd": "+1",
+        "gd": "0",
         "flag": "kr"
       },
       {

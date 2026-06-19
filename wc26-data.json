@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-19T00:50:15.513Z",
-    "lastUpdated": "2026-06-19T00:50:15.513Z",
+    "version": "2026-06-19T00:51:15.514Z",
+    "lastUpdated": "2026-06-19T00:51:15.514Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -64,7 +64,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "kr"
@@ -79,7 +79,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 14",
       "flagHome": null,
       "flagAway": null
@@ -94,7 +94,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 14",
       "flagHome": "za",
       "flagAway": "kr"
@@ -242,7 +242,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "20'",
+      "minute": "21'",
       "channel": "Matchday 9",
       "flagHome": "br",
       "flagAway": "ht"
@@ -343,7 +343,7 @@
       "away": "USA",
       "group": "Group D",
       "status": "NS",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -358,7 +358,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -418,7 +418,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 10",
       "flagHome": "ec",
       "flagAway": "cw"
@@ -703,7 +703,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -971,7 +971,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "65'",
+      "minute": "66'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -984,7 +984,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "65'",
+      "minute": "66'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1044,7 +1044,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Matchday 13",
       "flagHome": "pa",
       "flagAway": "hr"
@@ -1113,7 +1113,7 @@
       "away": "2C",
       "group": "",
       "status": "NS",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1165,7 +1165,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1217,7 +1217,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "95+5'",
+      "minute": "96+6'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1269,7 +1269,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "20'",
+      "minute": "21'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null

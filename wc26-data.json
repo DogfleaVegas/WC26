@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-20T02:38:18.394Z",
-    "lastUpdated": "2026-06-20T02:38:18.394Z",
+    "version": "2026-06-20T02:39:18.396Z",
+    "lastUpdated": "2026-06-20T02:39:18.396Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -240,8 +240,8 @@
       "away": "Haiti",
       "group": "Group C",
       "status": "FT",
-      "homeScore": "3",
-      "awayScore": "0",
+      "homeScore": 3,
+      "awayScore": 0,
       "minute": "finished",
       "channel": "Matchday 9",
       "flagHome": "br",
@@ -510,7 +510,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "38'",
+      "minute": "39'",
       "channel": "Matchday 10",
       "flagHome": "tn",
       "flagAway": "jp"
@@ -885,7 +885,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "83'",
+      "minute": "84'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -900,7 +900,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "83'",
+      "minute": "84'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1271,7 +1271,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "113+23'",
+      "minute": "114+24'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null

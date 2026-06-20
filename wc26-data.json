@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-20T19:03:19.854Z",
-    "lastUpdated": "2026-06-20T19:03:19.854Z",
+    "version": "2026-06-20T19:04:19.855Z",
+    "lastUpdated": "2026-06-20T19:04:19.855Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -19,7 +19,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 0,
-      "minute": "108+18'",
+      "minute": "109+19'",
       "channel": "Matchday 1",
       "flagHome": null,
       "flagAway": "za"
@@ -105,7 +105,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -150,7 +150,7 @@
       "status": "FT",
       "homeScore": 6,
       "awayScore": 0,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 8",
       "flagHome": null,
       "flagAway": "qa"
@@ -445,7 +445,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 4",
       "flagHome": "nl",
       "flagAway": "jp"
@@ -472,7 +472,9 @@
       "home": "Netherlands",
       "away": "Sweden",
       "group": "Group F",
-      "status": "NS",
+      "status": "FT",
+      "homeScore": 5,
+      "awayScore": 1,
       "minute": "120+30'",
       "channel": "Matchday 10",
       "flagHome": "nl",
@@ -691,7 +693,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 6",
       "flagHome": "fr",
       "flagAway": "sn"
@@ -745,7 +747,7 @@
       "away": "France",
       "group": "Group I",
       "status": "NS",
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -758,7 +760,7 @@
       "away": "Iraq",
       "group": "Group I",
       "status": "NS",
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -937,7 +939,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 2,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 7",
       "flagHome": "gb-eng",
       "flagAway": "hr"
@@ -1134,7 +1136,7 @@
       "away": "3A/E/H/I/J",
       "group": "",
       "status": "NS",
-      "minute": "108+18'",
+      "minute": "109+19'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1212,7 +1214,7 @@
       "away": "2G",
       "group": "",
       "status": "NS",
-      "minute": "108+18'",
+      "minute": "109+19'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1277,7 +1279,7 @@
       "away": "W84",
       "group": "",
       "status": "NS",
-      "minute": "48'",
+      "minute": "49'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1316,7 +1318,7 @@
       "away": "W87",
       "group": "",
       "status": "NS",
-      "minute": "108+18'",
+      "minute": "109+19'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1381,7 +1383,7 @@
       "away": "W98",
       "group": "",
       "status": "NS",
-      "minute": "48'",
+      "minute": "49'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1394,7 +1396,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1420,7 +1422,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null
@@ -1559,16 +1561,16 @@
     ],
     "Group F": [
       {
-        "team": "Sweden",
-        "pts": 3,
+        "team": "Netherlands",
+        "pts": 4,
         "gd": "+4",
-        "flag": "se"
+        "flag": "nl"
       },
       {
-        "team": "Netherlands",
-        "pts": 1,
+        "team": "Sweden",
+        "pts": 3,
         "gd": "0",
-        "flag": "nl"
+        "flag": "se"
       },
       {
         "team": "Japan",
@@ -1742,21 +1744,6 @@
   },
   "recentResults": [
     {
-      "id": 26,
-      "date": "2026-06-14",
-      "kickoff": "19:00 UTC-4",
-      "home": "Ivory Coast",
-      "away": "Ecuador",
-      "group": "Group E",
-      "status": "FT",
-      "homeScore": 1,
-      "awayScore": 0,
-      "minute": null,
-      "channel": "Matchday 4",
-      "flagHome": "ci",
-      "flagAway": "ec"
-    },
-    {
       "id": 31,
       "date": "2026-06-14",
       "kickoff": "15:00 UTC-5",
@@ -1766,7 +1753,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 2,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 4",
       "flagHome": "nl",
       "flagAway": "jp"
@@ -1785,6 +1772,21 @@
       "channel": "Matchday 4",
       "flagHome": "se",
       "flagAway": "tn"
+    },
+    {
+      "id": 33,
+      "date": "2026-06-20",
+      "kickoff": "12:00 UTC-5",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "group": "Group F",
+      "status": "FT",
+      "homeScore": 5,
+      "awayScore": 1,
+      "minute": "120+30'",
+      "channel": "Matchday 10",
+      "flagHome": "nl",
+      "flagAway": "se"
     },
     {
       "id": 37,
@@ -1856,7 +1858,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 6",
       "flagHome": "fr",
       "flagAway": "sn"
@@ -1946,7 +1948,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 2,
-      "minute": "3'",
+      "minute": "4'",
       "channel": "Matchday 7",
       "flagHome": "gb-eng",
       "flagAway": "hr"

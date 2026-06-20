@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-20T01:16:18.349Z",
-    "lastUpdated": "2026-06-20T01:16:18.349Z",
+    "version": "2026-06-20T01:17:18.351Z",
+    "lastUpdated": "2026-06-20T01:17:18.351Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -34,7 +34,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 1,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 1",
       "flagHome": "kr",
       "flagAway": null
@@ -206,7 +206,7 @@
       "status": "FT",
       "homeScore": 0,
       "awayScore": 1,
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Matchday 3",
       "flagHome": "ht",
       "flagAway": "gb-sct"
@@ -290,7 +290,7 @@
       "status": "FT",
       "homeScore": 2,
       "awayScore": 0,
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Matchday 3",
       "flagHome": "au",
       "flagAway": null
@@ -318,7 +318,7 @@
       "away": "Paraguay",
       "group": "Group D",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 9",
       "flagHome": null,
       "flagAway": "py"
@@ -456,7 +456,7 @@
       "status": "FT",
       "homeScore": 5,
       "awayScore": 1,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 4",
       "flagHome": "se",
       "flagAway": "tn"
@@ -577,7 +577,7 @@
       "away": "Iran",
       "group": "Group G",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -590,7 +590,7 @@
       "away": "Belgium",
       "group": "Group G",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -728,7 +728,7 @@
       "away": "Senegal",
       "group": "Group I",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 12",
       "flagHome": "no",
       "flagAway": "sn"
@@ -769,7 +769,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 0,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 6",
       "flagHome": "ar",
       "flagAway": "dz"
@@ -784,7 +784,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"
@@ -810,7 +810,7 @@
       "away": "Algeria",
       "group": "Group J",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 12",
       "flagHome": "jo",
       "flagAway": "dz"
@@ -823,7 +823,7 @@
       "away": "Austria",
       "group": "Group J",
       "status": "NS",
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -836,7 +836,7 @@
       "away": "Argentina",
       "group": "Group J",
       "status": "NS",
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -866,7 +866,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 3,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 7",
       "flagHome": "uz",
       "flagAway": "co"
@@ -892,7 +892,7 @@
       "away": "DR Congo",
       "group": "Group K",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -905,7 +905,7 @@
       "away": "Portugal",
       "group": "Group K",
       "status": "NS",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -918,7 +918,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1169,7 +1169,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1364,7 +1364,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1777,7 +1777,7 @@
       "status": "FT",
       "homeScore": 5,
       "awayScore": 1,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 4",
       "flagHome": "se",
       "flagAway": "tn"
@@ -1882,7 +1882,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 0,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 6",
       "flagHome": "ar",
       "flagAway": "dz"
@@ -1897,7 +1897,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 1,
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Matchday 6",
       "flagHome": "at",
       "flagAway": "jo"
@@ -1927,7 +1927,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 3,
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Matchday 7",
       "flagHome": "uz",
       "flagAway": "co"

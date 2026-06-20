@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-20T03:17:18.372Z",
-    "lastUpdated": "2026-06-20T03:17:18.372Z",
+    "version": "2026-06-20T03:18:18.372Z",
+    "lastUpdated": "2026-06-20T03:18:18.372Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -484,7 +484,7 @@
       "away": "Japan",
       "group": "Group F",
       "status": "NS",
-      "minute": "62'",
+      "minute": "63'",
       "channel": "Matchday 10",
       "flagHome": "tn",
       "flagAway": "jp"

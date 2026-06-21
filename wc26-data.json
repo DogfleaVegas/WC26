@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-21T15:41:22.240Z",
-    "lastUpdated": "2026-06-21T15:41:22.240Z",
+    "version": "2026-06-21T15:42:22.241Z",
+    "lastUpdated": "2026-06-21T15:42:22.241Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -583,8 +583,8 @@
       "away": "Iran",
       "group": "Group G",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 11",
       "flagHome": "be",
@@ -673,8 +673,8 @@
       "away": "Saudi Arabia",
       "group": "Group H",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 11",
       "flagHome": "es",

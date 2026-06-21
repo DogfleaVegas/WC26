@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-21T01:47:20.770Z",
-    "lastUpdated": "2026-06-21T01:47:20.770Z",
+    "version": "2026-06-21T01:48:20.771Z",
+    "lastUpdated": "2026-06-21T01:48:20.771Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -615,7 +615,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -630,7 +630,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -780,7 +780,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 12",
       "flagHome": "no",
       "flagAway": "sn"
@@ -870,7 +870,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 12",
       "flagHome": "jo",
       "flagAway": "dz"
@@ -958,7 +958,7 @@
       "away": "DR Congo",
       "group": "Group K",
       "status": "NS",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -1245,7 +1245,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1271,7 +1271,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "62'",
+      "minute": "63'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1440,7 +1440,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "92+2'",
+      "minute": "93+3'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null

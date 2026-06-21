@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-21T04:05:20.965Z",
-    "lastUpdated": "2026-06-21T04:05:20.965Z",
+    "version": "2026-06-21T04:06:20.967Z",
+    "lastUpdated": "2026-06-21T04:06:20.967Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -509,7 +509,7 @@
       "group": "Group F",
       "status": "LIVE",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "minute": "live",
       "channel": "Matchday 10",
       "flagHome": "tn",

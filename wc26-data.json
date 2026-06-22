@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-22T11:47:24.317Z",
-    "lastUpdated": "2026-06-22T11:47:24.317Z",
+    "version": "2026-06-22T11:48:24.318Z",
+    "lastUpdated": "2026-06-22T11:48:24.318Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1098,13 +1098,13 @@
       "id": 74,
       "date": "2026-06-29",
       "kickoff": "16:30 UTC-4",
-      "home": "1E",
+      "home": "Germany",
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
       "minute": null,
       "channel": "Round of 32",
-      "flagHome": null,
+      "flagHome": "de",
       "flagAway": null
     },
     {
@@ -1163,7 +1163,7 @@
       "id": 79,
       "date": "2026-06-30",
       "kickoff": "19:00 UTC-6",
-      "home": "1A",
+      "home": "Mexico",
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
@@ -1189,7 +1189,7 @@
       "id": 81,
       "date": "2026-07-01",
       "kickoff": "17:00 UTC-7",
-      "home": "1D",
+      "home": "USA",
       "away": "3B/E/F/I/J",
       "group": "",
       "status": "NS",

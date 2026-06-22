@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-22T03:04:23.341Z",
-    "lastUpdated": "2026-06-22T03:04:23.341Z",
+    "version": "2026-06-22T03:05:23.342Z",
+    "lastUpdated": "2026-06-22T03:05:23.342Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -597,10 +597,10 @@
       "home": "New Zealand",
       "away": "Egypt",
       "group": "Group G",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "1",
       "awayScore": "3",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 11",
       "flagHome": "nz",
       "flagAway": "eg"
@@ -885,7 +885,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "109+19'",
+      "minute": "110+20'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -900,7 +900,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "109+19'",
+      "minute": "110+20'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1657,6 +1657,12 @@
     ],
     "Group G": [
       {
+        "team": "Egypt",
+        "pts": 4,
+        "gd": "+2",
+        "flag": "eg"
+      },
+      {
         "team": "Belgium",
         "pts": 2,
         "gd": "0",
@@ -1669,15 +1675,9 @@
         "flag": "ir"
       },
       {
-        "team": "Egypt",
-        "pts": 1,
-        "gd": "0",
-        "flag": "eg"
-      },
-      {
         "team": "New Zealand",
         "pts": 1,
-        "gd": "0",
+        "gd": "-2",
         "flag": "nz"
       }
     ],
@@ -1814,21 +1814,6 @@
   },
   "recentResults": [
     {
-      "id": 37,
-      "date": "2026-06-15",
-      "kickoff": "12:00 UTC-7",
-      "home": "Belgium",
-      "away": "Egypt",
-      "group": "Group G",
-      "status": "FT",
-      "homeScore": 1,
-      "awayScore": 1,
-      "minute": "finished",
-      "channel": "Matchday 5",
-      "flagHome": "be",
-      "flagAway": "eg"
-    },
-    {
       "id": 38,
       "date": "2026-06-15",
       "kickoff": "18:00 UTC-7",
@@ -1857,6 +1842,21 @@
       "channel": "Matchday 11",
       "flagHome": "be",
       "flagAway": "ir"
+    },
+    {
+      "id": 40,
+      "date": "2026-06-21",
+      "kickoff": "18:00 UTC-7",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "group": "Group G",
+      "status": "FT",
+      "homeScore": "1",
+      "awayScore": "3",
+      "minute": "finished",
+      "channel": "Matchday 11",
+      "flagHome": "nz",
+      "flagAway": "eg"
     },
     {
       "id": 43,

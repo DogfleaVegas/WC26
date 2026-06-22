@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-22T03:07:23.343Z",
-    "lastUpdated": "2026-06-22T03:07:23.343Z",
+    "version": "2026-06-22T03:08:23.344Z",
+    "lastUpdated": "2026-06-22T03:08:23.344Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -598,8 +598,8 @@
       "away": "Egypt",
       "group": "Group G",
       "status": "FT",
-      "homeScore": "1",
-      "awayScore": "3",
+      "homeScore": 1,
+      "awayScore": 3,
       "minute": "finished",
       "channel": "Matchday 11",
       "flagHome": "nz",
@@ -885,7 +885,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -900,7 +900,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1851,8 +1851,8 @@
       "away": "Egypt",
       "group": "Group G",
       "status": "FT",
-      "homeScore": "1",
-      "awayScore": "3",
+      "homeScore": 1,
+      "awayScore": 3,
       "minute": "finished",
       "channel": "Matchday 11",
       "flagHome": "nz",

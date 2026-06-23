@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-23T05:01:26.279Z",
-    "lastUpdated": "2026-06-23T05:01:26.279Z",
+    "version": "2026-06-23T05:02:26.282Z",
+    "lastUpdated": "2026-06-23T05:02:26.282Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -867,10 +867,10 @@
       "home": "Jordan",
       "away": "Algeria",
       "group": "Group J",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "1",
       "awayScore": "2",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 12",
       "flagHome": "jo",
       "flagAway": "dz"
@@ -1748,14 +1748,14 @@
       },
       {
         "team": "Algeria",
-        "pts": 0,
-        "gd": "-3",
+        "pts": 3,
+        "gd": "-2",
         "flag": "dz"
       },
       {
         "team": "Jordan",
         "pts": 0,
-        "gd": "-2",
+        "gd": "-3",
         "flag": "jo"
       }
     ],
@@ -1813,21 +1813,6 @@
     ]
   },
   "recentResults": [
-    {
-      "id": 43,
-      "date": "2026-06-15",
-      "kickoff": "12:00 UTC-4",
-      "home": "Spain",
-      "away": "Cape Verde",
-      "group": "Group H",
-      "status": "FT",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "finished",
-      "channel": "Matchday 5",
-      "flagHome": "es",
-      "flagAway": "cv"
-    },
     {
       "id": 44,
       "date": "2026-06-15",
@@ -1977,6 +1962,21 @@
       "channel": "Matchday 12",
       "flagHome": "ar",
       "flagAway": "at"
+    },
+    {
+      "id": 58,
+      "date": "2026-06-22",
+      "kickoff": "20:00 UTC-7",
+      "home": "Jordan",
+      "away": "Algeria",
+      "group": "Group J",
+      "status": "FT",
+      "homeScore": "1",
+      "awayScore": "2",
+      "minute": "finished",
+      "channel": "Matchday 12",
+      "flagHome": "jo",
+      "flagAway": "dz"
     },
     {
       "id": 61,

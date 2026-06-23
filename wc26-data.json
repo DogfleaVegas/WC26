@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-23T02:00:25.983Z",
-    "lastUpdated": "2026-06-23T02:00:25.983Z",
+    "version": "2026-06-23T02:01:25.984Z",
+    "lastUpdated": "2026-06-23T02:01:25.984Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -615,7 +615,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -630,7 +630,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -777,10 +777,10 @@
       "home": "Norway",
       "away": "Senegal",
       "group": "Group I",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "3",
       "awayScore": "2",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 12",
       "flagHome": "no",
       "flagAway": "sn"
@@ -870,7 +870,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 12",
       "flagHome": "jo",
       "flagAway": "dz"
@@ -885,7 +885,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "60'",
+      "minute": "46'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -900,7 +900,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "60'",
+      "minute": "46'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -958,7 +958,7 @@
       "away": "DR Congo",
       "group": "Group K",
       "status": "NS",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -1245,7 +1245,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1271,7 +1271,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "75'",
+      "minute": "76'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1440,7 +1440,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1716,8 +1716,8 @@
       },
       {
         "team": "Norway",
-        "pts": 3,
-        "gd": "+3",
+        "pts": 6,
+        "gd": "+4",
         "flag": "no"
       },
       {
@@ -1729,7 +1729,7 @@
       {
         "team": "Senegal",
         "pts": 0,
-        "gd": "-2",
+        "gd": "-3",
         "flag": "sn"
       }
     ],
@@ -1813,21 +1813,6 @@
     ]
   },
   "recentResults": [
-    {
-      "id": 40,
-      "date": "2026-06-21",
-      "kickoff": "18:00 UTC-7",
-      "home": "New Zealand",
-      "away": "Egypt",
-      "group": "Group G",
-      "status": "FT",
-      "homeScore": 1,
-      "awayScore": 3,
-      "minute": "finished",
-      "channel": "Matchday 11",
-      "flagHome": "nz",
-      "flagAway": "eg"
-    },
     {
       "id": 43,
       "date": "2026-06-15",
@@ -1932,6 +1917,21 @@
       "channel": "Matchday 12",
       "flagHome": "fr",
       "flagAway": "iq"
+    },
+    {
+      "id": 52,
+      "date": "2026-06-22",
+      "kickoff": "20:00 UTC-4",
+      "home": "Norway",
+      "away": "Senegal",
+      "group": "Group I",
+      "status": "FT",
+      "homeScore": "3",
+      "awayScore": "2",
+      "minute": "finished",
+      "channel": "Matchday 12",
+      "flagHome": "no",
+      "flagAway": "sn"
     },
     {
       "id": 55,

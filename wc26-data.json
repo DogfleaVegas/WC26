@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-23T05:04:26.284Z",
-    "lastUpdated": "2026-06-23T05:04:26.284Z",
+    "version": "2026-06-23T05:05:26.286Z",
+    "lastUpdated": "2026-06-23T05:05:26.286Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -868,8 +868,8 @@
       "away": "Algeria",
       "group": "Group J",
       "status": "FT",
-      "homeScore": "1",
-      "awayScore": "2",
+      "homeScore": 1,
+      "awayScore": 2,
       "minute": "finished",
       "channel": "Matchday 12",
       "flagHome": "jo",
@@ -1971,8 +1971,8 @@
       "away": "Algeria",
       "group": "Group J",
       "status": "FT",
-      "homeScore": "1",
-      "awayScore": "2",
+      "homeScore": 1,
+      "awayScore": 2,
       "minute": "finished",
       "channel": "Matchday 12",
       "flagHome": "jo",

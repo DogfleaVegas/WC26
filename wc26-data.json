@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-23T00:51:25.824Z",
-    "lastUpdated": "2026-06-23T00:51:25.824Z",
+    "version": "2026-06-23T00:52:25.826Z",
+    "lastUpdated": "2026-06-23T00:52:25.826Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -79,7 +79,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Matchday 14",
       "flagHome": null,
       "flagAway": null
@@ -94,7 +94,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Matchday 14",
       "flagHome": "za",
       "flagAway": "kr"
@@ -345,7 +345,7 @@
       "away": "USA",
       "group": "Group D",
       "status": "NS",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -360,7 +360,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -705,7 +705,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -762,10 +762,10 @@
       "home": "France",
       "away": "Iraq",
       "group": "Group I",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "3",
       "awayScore": "0",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 12",
       "flagHome": "fr",
       "flagAway": "iq"
@@ -973,7 +973,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -986,7 +986,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "66'",
+      "minute": "67'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1046,7 +1046,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Matchday 13",
       "flagHome": "pa",
       "flagAway": "hr"
@@ -1115,7 +1115,7 @@
       "away": "2C",
       "group": "",
       "status": "NS",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1167,7 +1167,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1219,7 +1219,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "96+6'",
+      "minute": "97+7'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1271,7 +1271,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "21'",
+      "minute": "22'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1709,21 +1709,21 @@
     ],
     "Group I": [
       {
+        "team": "France",
+        "pts": 6,
+        "gd": "+5",
+        "flag": "fr"
+      },
+      {
         "team": "Norway",
         "pts": 3,
         "gd": "+3",
         "flag": "no"
       },
       {
-        "team": "France",
-        "pts": 3,
-        "gd": "+2",
-        "flag": "fr"
-      },
-      {
         "team": "Iraq",
         "pts": 0,
-        "gd": "-3",
+        "gd": "-6",
         "flag": "iq"
       },
       {
@@ -1813,21 +1813,6 @@
     ]
   },
   "recentResults": [
-    {
-      "id": 39,
-      "date": "2026-06-21",
-      "kickoff": "12:00 UTC-7",
-      "home": "Belgium",
-      "away": "Iran",
-      "group": "Group G",
-      "status": "FT",
-      "homeScore": 0,
-      "awayScore": 0,
-      "minute": "finished",
-      "channel": "Matchday 11",
-      "flagHome": "be",
-      "flagAway": "ir"
-    },
     {
       "id": 40,
       "date": "2026-06-21",
@@ -1932,6 +1917,21 @@
       "channel": "Matchday 6",
       "flagHome": "iq",
       "flagAway": "no"
+    },
+    {
+      "id": 51,
+      "date": "2026-06-22",
+      "kickoff": "17:00 UTC-4",
+      "home": "France",
+      "away": "Iraq",
+      "group": "Group I",
+      "status": "FT",
+      "homeScore": "3",
+      "awayScore": "0",
+      "minute": "finished",
+      "channel": "Matchday 12",
+      "flagHome": "fr",
+      "flagAway": "iq"
     },
     {
       "id": 55,

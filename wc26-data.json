@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-23T15:48:27.538Z",
-    "lastUpdated": "2026-06-23T15:48:27.538Z",
+    "version": "2026-06-23T15:49:27.540Z",
+    "lastUpdated": "2026-06-23T15:49:27.540Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1044,8 +1044,8 @@
       "away": "Croatia",
       "group": "Group L",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 13",
       "flagHome": "pa",

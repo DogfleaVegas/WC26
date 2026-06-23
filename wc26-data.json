@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-23T04:31:26.233Z",
-    "lastUpdated": "2026-06-23T04:31:26.233Z",
+    "version": "2026-06-23T04:32:26.236Z",
+    "lastUpdated": "2026-06-23T04:32:26.236Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -869,7 +869,7 @@
       "group": "Group J",
       "status": "LIVE",
       "homeScore": "1",
-      "awayScore": "0",
+      "awayScore": "1",
       "minute": "live",
       "channel": "Matchday 12",
       "flagHome": "jo",

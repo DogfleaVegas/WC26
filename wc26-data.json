@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T23:49:31.076Z",
-    "lastUpdated": "2026-06-24T23:49:31.076Z",
+    "version": "2026-06-24T23:50:31.077Z",
+    "lastUpdated": "2026-06-24T23:50:31.077Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -289,7 +289,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 1,
-      "minute": "94+4'",
+      "minute": "95+5'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "py"
@@ -527,7 +527,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "94+4'",
+      "minute": "95+5'",
       "channel": "Matchday 15",
       "flagHome": "jp",
       "flagAway": "se"
@@ -542,7 +542,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "94+4'",
+      "minute": "95+5'",
       "channel": "Matchday 15",
       "flagHome": "tn",
       "flagAway": "nl"
@@ -722,7 +722,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "94+4'",
+      "minute": "95+5'",
       "channel": "Matchday 16",
       "flagHome": "uy",
       "flagAway": "es"
@@ -977,7 +977,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "19'",
+      "minute": "20'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -990,7 +990,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "19'",
+      "minute": "20'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1262,7 +1262,7 @@
       "away": "2H",
       "group": "",
       "status": "NS",
-      "minute": "94+4'",
+      "minute": "95+5'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1340,7 +1340,7 @@
       "away": "W80",
       "group": "",
       "status": "NS",
-      "minute": "94+4'",
+      "minute": "95+5'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null

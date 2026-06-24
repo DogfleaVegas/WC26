@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T04:01:28.937Z",
-    "lastUpdated": "2026-06-24T04:01:28.937Z",
+    "version": "2026-06-24T04:02:28.940Z",
+    "lastUpdated": "2026-06-24T04:02:28.940Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -957,7 +957,9 @@
       "home": "Colombia",
       "away": "DR Congo",
       "group": "Group K",
-      "status": "NS",
+      "status": "FT",
+      "homeScore": 1,
+      "awayScore": 0,
       "minute": null,
       "channel": "Matchday 13",
       "flagHome": "co",
@@ -1761,21 +1763,21 @@
     ],
     "Group K": [
       {
+        "team": "Colombia",
+        "pts": 6,
+        "gd": "+3",
+        "flag": "co"
+      },
+      {
         "team": "Portugal",
         "pts": 4,
         "gd": "+5",
         "flag": "pt"
       },
       {
-        "team": "Colombia",
-        "pts": 3,
-        "gd": "+2",
-        "flag": "co"
-      },
-      {
         "team": "DR Congo",
         "pts": 1,
-        "gd": "0",
+        "gd": "-1",
         "flag": "cd"
       },
       {
@@ -1813,21 +1815,6 @@
     ]
   },
   "recentResults": [
-    {
-      "id": 49,
-      "date": "2026-06-16",
-      "kickoff": "15:00 UTC-4",
-      "home": "France",
-      "away": "Senegal",
-      "group": "Group I",
-      "status": "FT",
-      "homeScore": 3,
-      "awayScore": 1,
-      "minute": "finished",
-      "channel": "Matchday 6",
-      "flagHome": "fr",
-      "flagAway": "sn"
-    },
     {
       "id": 50,
       "date": "2026-06-16",
@@ -1977,6 +1964,21 @@
       "channel": "Matchday 13",
       "flagHome": "pt",
       "flagAway": "uz"
+    },
+    {
+      "id": 64,
+      "date": "2026-06-23",
+      "kickoff": "20:00 UTC-6",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "group": "Group K",
+      "status": "FT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "minute": null,
+      "channel": "Matchday 13",
+      "flagHome": "co",
+      "flagAway": "cd"
     },
     {
       "id": 67,

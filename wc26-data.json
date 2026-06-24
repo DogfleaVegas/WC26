@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T02:31:28.713Z",
-    "lastUpdated": "2026-06-24T02:31:28.713Z",
+    "version": "2026-06-24T02:32:28.715Z",
+    "lastUpdated": "2026-06-24T02:32:28.715Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -885,7 +885,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -900,7 +900,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1271,7 +1271,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "106+16'",
+      "minute": "107+17'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null

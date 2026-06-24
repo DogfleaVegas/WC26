@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T12:32:29.824Z",
-    "lastUpdated": "2026-06-24T12:32:29.824Z",
+    "version": "2026-06-24T12:33:29.824Z",
+    "lastUpdated": "2026-06-24T12:33:29.824Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -167,8 +167,8 @@
       "away": "Canada",
       "group": "Group B",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 14",
       "flagHome": "ch",
@@ -255,8 +255,8 @@
       "away": "Brazil",
       "group": "Group C",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 14",
       "flagHome": "gb-sct",
@@ -270,8 +270,8 @@
       "away": "Haiti",
       "group": "Group C",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 14",
       "flagHome": "ma",

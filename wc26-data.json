@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T22:58:31.025Z",
-    "lastUpdated": "2026-06-24T22:58:31.025Z",
+    "version": "2026-06-24T22:59:31.027Z",
+    "lastUpdated": "2026-06-24T22:59:31.027Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1065,7 +1065,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Matchday 17",
       "flagHome": "pa",
       "flagAway": "gb-eng"
@@ -1080,7 +1080,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Matchday 17",
       "flagHome": "hr",
       "flagAway": "gh"
@@ -1145,7 +1145,7 @@
       "away": "3C/D/F/G/H",
       "group": "",
       "status": "NS",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1197,7 +1197,7 @@
       "away": "3B/E/F/I/J",
       "group": "",
       "status": "NS",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1301,7 +1301,7 @@
       "away": "W77",
       "group": "",
       "status": "NS",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1366,7 +1366,7 @@
       "away": "W82",
       "group": "",
       "status": "NS",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1431,7 +1431,7 @@
       "away": "W92",
       "group": "",
       "status": "NS",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1483,7 +1483,7 @@
       "away": "L102",
       "group": "",
       "status": "NS",
-      "minute": "103+13'",
+      "minute": "104+14'",
       "channel": "Match for third place",
       "flagHome": null,
       "flagAway": null

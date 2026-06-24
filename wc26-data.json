@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T00:56:28.508Z",
-    "lastUpdated": "2026-06-24T00:56:28.508Z",
+    "version": "2026-06-24T00:57:28.511Z",
+    "lastUpdated": "2026-06-24T00:57:28.511Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -79,7 +79,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Matchday 14",
       "flagHome": null,
       "flagAway": null
@@ -94,7 +94,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Matchday 14",
       "flagHome": "za",
       "flagAway": "kr"
@@ -345,7 +345,7 @@
       "away": "USA",
       "group": "Group D",
       "status": "NS",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -360,7 +360,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -705,7 +705,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -973,7 +973,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "71'",
+      "minute": "72'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -986,7 +986,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "71'",
+      "minute": "72'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1043,10 +1043,10 @@
       "home": "Panama",
       "away": "Croatia",
       "group": "Group L",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "0",
       "awayScore": "1",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 13",
       "flagHome": "pa",
       "flagAway": "hr"
@@ -1115,7 +1115,7 @@
       "away": "2C",
       "group": "",
       "status": "NS",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1167,7 +1167,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1219,7 +1219,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "101+11'",
+      "minute": "102+12'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1271,7 +1271,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "26'",
+      "minute": "27'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1800,34 +1800,19 @@
       },
       {
         "team": "Croatia",
-        "pts": 0,
-        "gd": "-2",
+        "pts": 3,
+        "gd": "-1",
         "flag": "hr"
       },
       {
         "team": "Panama",
         "pts": 0,
-        "gd": "-1",
+        "gd": "-2",
         "flag": "pa"
       }
     ]
   },
   "recentResults": [
-    {
-      "id": 46,
-      "date": "2026-06-21",
-      "kickoff": "18:00 UTC-4",
-      "home": "Uruguay",
-      "away": "Cape Verde",
-      "group": "Group H",
-      "status": "FT",
-      "homeScore": 2,
-      "awayScore": 2,
-      "minute": "finished",
-      "channel": "Matchday 11",
-      "flagHome": "uy",
-      "flagAway": "cv"
-    },
     {
       "id": 49,
       "date": "2026-06-16",
@@ -2037,6 +2022,21 @@
       "channel": "Matchday 13",
       "flagHome": "gb-eng",
       "flagAway": "gh"
+    },
+    {
+      "id": 70,
+      "date": "2026-06-23",
+      "kickoff": "19:00 UTC-4",
+      "home": "Panama",
+      "away": "Croatia",
+      "group": "Group L",
+      "status": "FT",
+      "homeScore": "0",
+      "awayScore": "1",
+      "minute": "finished",
+      "channel": "Matchday 13",
+      "flagHome": "pa",
+      "flagAway": "hr"
     }
   ],
   "playersToWatch": [

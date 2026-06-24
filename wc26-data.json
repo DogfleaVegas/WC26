@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-24T20:46:30.745Z",
-    "lastUpdated": "2026-06-24T20:46:30.745Z",
+    "version": "2026-06-24T20:47:30.747Z",
+    "lastUpdated": "2026-06-24T20:47:30.747Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -109,7 +109,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -795,7 +795,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -810,7 +810,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -1104,7 +1104,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "16'",
+      "minute": "17'",
       "channel": "Round of 32",
       "flagHome": "de",
       "flagAway": null
@@ -1468,7 +1468,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1494,7 +1494,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T21:46:03.297Z",
-    "lastUpdated": "2026-06-25T21:46:03.297Z",
+    "version": "2026-06-25T21:47:03.299Z",
+    "lastUpdated": "2026-06-25T21:47:03.299Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1108,7 +1108,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "61'",
+      "minute": "62'",
       "channel": "Round of 32",
       "flagHome": "de",
       "flagAway": null
@@ -1329,7 +1329,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1407,7 +1407,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "91+1'",
+      "minute": "92+2'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null

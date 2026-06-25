@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T02:12:31.384Z",
-    "lastUpdated": "2026-06-25T02:12:31.384Z",
+    "version": "2026-06-25T02:13:31.385Z",
+    "lastUpdated": "2026-06-25T02:13:31.385Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -617,7 +617,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "117+27'",
+      "minute": "118+28'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -632,7 +632,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "117+27'",
+      "minute": "118+28'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -887,7 +887,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "57'",
+      "minute": "58'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -902,7 +902,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "57'",
+      "minute": "58'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -962,7 +962,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "117+27'",
+      "minute": "118+28'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -1249,7 +1249,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "117+27'",
+      "minute": "118+28'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1275,7 +1275,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "87'",
+      "minute": "88'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1444,7 +1444,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "117+27'",
+      "minute": "118+28'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1977,7 +1977,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "117+27'",
+      "minute": "118+28'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T01:07:31.210Z",
-    "lastUpdated": "2026-06-25T01:07:31.210Z",
+    "version": "2026-06-25T01:08:31.211Z",
+    "lastUpdated": "2026-06-25T01:08:31.211Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -347,7 +347,7 @@
       "away": "USA",
       "group": "Group D",
       "status": "NS",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -362,7 +362,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -617,7 +617,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "52'",
+      "minute": "53'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -632,7 +632,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "52'",
+      "minute": "53'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -707,7 +707,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -887,7 +887,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "7'",
+      "minute": "8'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -902,7 +902,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "7'",
+      "minute": "8'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -962,7 +962,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "52'",
+      "minute": "53'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -977,7 +977,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "82'",
+      "minute": "83'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -990,7 +990,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "82'",
+      "minute": "83'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1119,7 +1119,7 @@
       "away": "2C",
       "group": "",
       "status": "NS",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1171,7 +1171,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1223,7 +1223,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1249,7 +1249,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "52'",
+      "minute": "53'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1275,7 +1275,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "37'",
+      "minute": "38'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1444,7 +1444,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "52'",
+      "minute": "53'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1977,7 +1977,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "52'",
+      "minute": "53'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"

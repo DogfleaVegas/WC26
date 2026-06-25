@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T02:59:31.412Z",
-    "lastUpdated": "2026-06-25T02:59:31.412Z",
+    "version": "2026-06-25T03:00:31.413Z",
+    "lastUpdated": "2026-06-25T03:00:31.413Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -76,10 +76,10 @@
       "home": "Czech Republic",
       "away": "Mexico",
       "group": "Group A",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "0",
       "awayScore": "3",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 14",
       "flagHome": null,
       "flagAway": null
@@ -91,10 +91,10 @@
       "home": "South Africa",
       "away": "South Korea",
       "group": "Group A",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "1",
       "awayScore": "0",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 14",
       "flagHome": "za",
       "flagAway": "kr"
@@ -887,7 +887,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "104+14'",
+      "minute": "105+15'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -902,7 +902,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "104+14'",
+      "minute": "105+15'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -1506,26 +1506,26 @@
     "Group A": [
       {
         "team": "Mexico",
-        "pts": 6,
-        "gd": "+3",
+        "pts": 9,
+        "gd": "+6",
         "flag": null
+      },
+      {
+        "team": "South Africa",
+        "pts": 4,
+        "gd": "-1",
+        "flag": "za"
       },
       {
         "team": "South Korea",
         "pts": 3,
-        "gd": "0",
+        "gd": "-1",
         "flag": "kr"
-      },
-      {
-        "team": "South Africa",
-        "pts": 1,
-        "gd": "-2",
-        "flag": "za"
       },
       {
         "team": "Czech Republic",
         "pts": 1,
-        "gd": "-1",
+        "gd": "-4",
         "flag": null
       }
     ],

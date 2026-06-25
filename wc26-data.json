@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T23:52:03.514Z",
-    "lastUpdated": "2026-06-25T23:52:03.514Z",
+    "version": "2026-06-25T23:53:03.516Z",
+    "lastUpdated": "2026-06-25T23:53:03.516Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -289,7 +289,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 1,
-      "minute": "97+7'",
+      "minute": "98+8'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "py"
@@ -722,7 +722,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "97+7'",
+      "minute": "98+8'",
       "channel": "Matchday 16",
       "flagHome": "uy",
       "flagAway": "es"
@@ -977,7 +977,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "22'",
+      "minute": "23'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -990,7 +990,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "22'",
+      "minute": "23'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1264,7 +1264,7 @@
       "away": "2H",
       "group": "",
       "status": "NS",
-      "minute": "97+7'",
+      "minute": "98+8'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1342,7 +1342,7 @@
       "away": "W80",
       "group": "",
       "status": "NS",
-      "minute": "97+7'",
+      "minute": "98+8'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null

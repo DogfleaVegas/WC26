@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T15:20:32.863Z",
-    "lastUpdated": "2026-06-25T15:20:32.863Z",
+    "version": "2026-06-25T15:21:32.866Z",
+    "lastUpdated": "2026-06-25T15:21:32.866Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1089,13 +1089,15 @@
       "id": 73,
       "date": "2026-06-28",
       "kickoff": "12:00 UTC-7",
-      "home": "2A",
-      "away": "2B",
+      "home": "South Africa",
+      "away": "Canada",
       "group": "",
       "status": "NS",
+      "homeScore": "0",
+      "awayScore": "0",
       "minute": null,
       "channel": "Round of 32",
-      "flagHome": null,
+      "flagHome": "za",
       "flagAway": null
     },
     {
@@ -1116,25 +1118,25 @@
       "date": "2026-06-29",
       "kickoff": "19:00 UTC-6",
       "home": "1F",
-      "away": "2C",
+      "away": "Morocco",
       "group": "",
       "status": "NS",
       "minute": null,
       "channel": "Round of 32",
       "flagHome": null,
-      "flagAway": null
+      "flagAway": "ma"
     },
     {
       "id": 76,
       "date": "2026-06-29",
       "kickoff": "12:00 UTC-5",
-      "home": "1C",
+      "home": "Brazil",
       "away": "2F",
       "group": "",
       "status": "NS",
       "minute": null,
       "channel": "Round of 32",
-      "flagHome": null,
+      "flagHome": "br",
       "flagAway": null
     },
     {
@@ -1245,13 +1247,13 @@
       "id": 85,
       "date": "2026-07-02",
       "kickoff": "20:00 UTC-7",
-      "home": "1B",
+      "home": "Switzerland",
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
       "minute": null,
       "channel": "Round of 32",
-      "flagHome": null,
+      "flagHome": "ch",
       "flagAway": null
     },
     {

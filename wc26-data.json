@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T01:31:31.268Z",
-    "lastUpdated": "2026-06-25T01:31:31.268Z",
+    "version": "2026-06-25T01:32:31.270Z",
+    "lastUpdated": "2026-06-25T01:32:31.270Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -617,7 +617,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -632,7 +632,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -887,7 +887,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "31'",
+      "minute": "32'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -902,7 +902,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "31'",
+      "minute": "32'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -962,7 +962,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -977,7 +977,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "106+16'",
+      "minute": "107+17'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -990,7 +990,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "106+16'",
+      "minute": "107+17'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1249,7 +1249,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1275,7 +1275,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "46'",
+      "minute": "47'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1444,7 +1444,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1977,7 +1977,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "76'",
+      "minute": "77'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"

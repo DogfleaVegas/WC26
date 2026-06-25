@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T12:51:32.528Z",
-    "lastUpdated": "2026-06-25T12:51:32.528Z",
+    "version": "2026-06-25T12:52:32.529Z",
+    "lastUpdated": "2026-06-25T12:52:32.529Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -450,8 +450,8 @@
       "away": "Germany",
       "group": "Group E",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 15",
       "flagHome": "ec",

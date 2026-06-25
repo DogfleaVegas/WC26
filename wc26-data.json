@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-25T20:04:03.110Z",
-    "lastUpdated": "2026-06-25T20:04:03.110Z",
+    "version": "2026-06-25T20:05:03.110Z",
+    "lastUpdated": "2026-06-25T20:05:03.110Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -109,7 +109,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "49'",
+      "minute": "50'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -451,7 +451,7 @@
       "group": "Group E",
       "status": "LIVE",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "minute": "live",
       "channel": "Matchday 15",
       "flagHome": "ec",
@@ -797,7 +797,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "49'",
+      "minute": "50'",
       "channel": "Matchday 16",
       "flagHome": "no",
       "flagAway": "fr"
@@ -812,7 +812,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "49'",
+      "minute": "50'",
       "channel": "Matchday 16",
       "flagHome": "sn",
       "flagAway": "iq"
@@ -1329,7 +1329,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "4'",
+      "minute": "5'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1355,7 +1355,7 @@
       "away": "W84",
       "group": "",
       "status": "NS",
-      "minute": "109+19'",
+      "minute": "110+20'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1407,7 +1407,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "4'",
+      "minute": "5'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1459,7 +1459,7 @@
       "away": "W98",
       "group": "",
       "status": "NS",
-      "minute": "109+19'",
+      "minute": "110+20'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1472,7 +1472,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "49'",
+      "minute": "50'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1498,7 +1498,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "49'",
+      "minute": "50'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null

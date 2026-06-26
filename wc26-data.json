@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T14:57:43.744Z",
-    "lastUpdated": "2026-06-26T14:57:43.744Z",
+    "version": "2026-06-26T14:58:43.745Z",
+    "lastUpdated": "2026-06-26T14:58:43.745Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -1138,6 +1138,8 @@
       "away": "Japan",
       "group": "",
       "status": "NS",
+      "homeScore": "0",
+      "awayScore": "0",
       "minute": null,
       "channel": "Round of 32",
       "flagHome": "br",

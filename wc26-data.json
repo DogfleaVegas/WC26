@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T15:08:43.754Z",
-    "lastUpdated": "2026-06-26T15:08:43.754Z",
+    "version": "2026-06-26T15:09:43.755Z",
+    "lastUpdated": "2026-06-26T15:09:43.755Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -797,8 +797,8 @@
       "away": "France",
       "group": "Group I",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 16",
       "flagHome": "no",

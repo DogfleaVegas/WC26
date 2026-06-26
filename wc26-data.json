@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T21:03:05.099Z",
-    "lastUpdated": "2026-06-26T21:03:05.099Z",
+    "version": "2026-06-26T21:05:05.103Z",
+    "lastUpdated": "2026-06-26T21:05:05.103Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -109,7 +109,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "108+18'",
+      "minute": "110+20'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -1067,7 +1067,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Matchday 17",
       "flagHome": "pa",
       "flagAway": "gb-eng"
@@ -1082,7 +1082,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Matchday 17",
       "flagHome": "hr",
       "flagAway": "gh"
@@ -1110,7 +1110,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "33'",
+      "minute": "35'",
       "channel": "Round of 32",
       "flagHome": "de",
       "flagAway": null
@@ -1153,7 +1153,7 @@
       "away": "3C/D/F/G/H",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1205,7 +1205,7 @@
       "away": "3B/E/F/I/J",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1309,7 +1309,7 @@
       "away": "W77",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1335,7 +1335,7 @@
       "away": "W78",
       "group": "",
       "status": "NS",
-      "minute": "48'",
+      "minute": "50'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1374,7 +1374,7 @@
       "away": "W82",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null
@@ -1413,7 +1413,7 @@
       "away": "W90",
       "group": "",
       "status": "NS",
-      "minute": "48'",
+      "minute": "50'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1439,7 +1439,7 @@
       "away": "W92",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1478,7 +1478,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "108+18'",
+      "minute": "110+20'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1491,7 +1491,7 @@
       "away": "L102",
       "group": "",
       "status": "NS",
-      "minute": "3'",
+      "minute": "5'",
       "channel": "Match for third place",
       "flagHome": null,
       "flagAway": null
@@ -1504,7 +1504,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "108+18'",
+      "minute": "110+20'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null

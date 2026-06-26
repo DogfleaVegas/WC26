@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T04:11:04.029Z",
-    "lastUpdated": "2026-06-26T04:11:04.029Z",
+    "version": "2026-06-26T04:12:03.995Z",
+    "lastUpdated": "2026-06-26T04:12:03.995Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -346,7 +346,9 @@
       "home": "Turkey",
       "away": "USA",
       "group": "Group D",
-      "status": "NS",
+      "status": "FT",
+      "homeScore": 3,
+      "awayScore": 2,
       "minute": null,
       "channel": "Matchday 15",
       "flagHome": null,
@@ -1587,7 +1589,7 @@
       {
         "team": "USA",
         "pts": 6,
-        "gd": "+5",
+        "gd": "+4",
         "flag": null
       },
       {
@@ -1604,8 +1606,8 @@
       },
       {
         "team": "Turkey",
-        "pts": 0,
-        "gd": "-3",
+        "pts": 3,
+        "gd": "-2",
         "flag": null
       }
     ],

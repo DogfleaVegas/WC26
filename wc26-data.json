@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T20:53:05.105Z",
-    "lastUpdated": "2026-06-26T20:53:05.105Z",
+    "version": "2026-06-26T20:54:05.100Z",
+    "lastUpdated": "2026-06-26T20:54:05.100Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -109,7 +109,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 1,
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "ba"
@@ -1110,7 +1110,7 @@
       "away": "3A/B/C/D/F",
       "group": "",
       "status": "NS",
-      "minute": "23'",
+      "minute": "24'",
       "channel": "Round of 32",
       "flagHome": "de",
       "flagAway": null
@@ -1478,7 +1478,7 @@
       "away": "W100",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Semi-final",
       "flagHome": null,
       "flagAway": null
@@ -1504,7 +1504,7 @@
       "away": "W102",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Final",
       "flagHome": null,
       "flagAway": null

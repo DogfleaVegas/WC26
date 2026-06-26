@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T23:43:05.433Z",
-    "lastUpdated": "2026-06-26T23:43:05.433Z",
+    "version": "2026-06-26T23:44:05.435Z",
+    "lastUpdated": "2026-06-26T23:44:05.435Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -289,7 +289,7 @@
       "status": "FT",
       "homeScore": 4,
       "awayScore": 1,
-      "minute": "88'",
+      "minute": "89'",
       "channel": "Matchday 2",
       "flagHome": null,
       "flagAway": "py"
@@ -349,7 +349,7 @@
       "status": "FT",
       "homeScore": 3,
       "awayScore": 2,
-      "minute": "43'",
+      "minute": "44'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -709,7 +709,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "43'",
+      "minute": "44'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -724,7 +724,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "88'",
+      "minute": "89'",
       "channel": "Matchday 16",
       "flagHome": "uy",
       "flagAway": "es"
@@ -979,7 +979,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "13'",
+      "minute": "14'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -992,7 +992,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "13'",
+      "minute": "14'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1125,7 +1125,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "43'",
+      "minute": "44'",
       "channel": "Round of 32",
       "flagHome": "nl",
       "flagAway": "ma"
@@ -1179,7 +1179,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "43'",
+      "minute": "44'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1231,7 +1231,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "43'",
+      "minute": "44'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1270,7 +1270,7 @@
       "away": "2H",
       "group": "",
       "status": "NS",
-      "minute": "88'",
+      "minute": "89'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1348,7 +1348,7 @@
       "away": "W80",
       "group": "",
       "status": "NS",
-      "minute": "88'",
+      "minute": "89'",
       "channel": "Round of 16",
       "flagHome": null,
       "flagAway": null

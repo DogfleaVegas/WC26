@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T00:53:03.626Z",
-    "lastUpdated": "2026-06-26T00:53:03.626Z",
+    "version": "2026-06-26T00:54:03.628Z",
+    "lastUpdated": "2026-06-26T00:54:03.628Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -347,7 +347,7 @@
       "away": "USA",
       "group": "Group D",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -362,7 +362,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -707,7 +707,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -977,7 +977,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "68'",
+      "minute": "69'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -990,7 +990,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "68'",
+      "minute": "69'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1121,7 +1121,7 @@
       "away": "Morocco",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": "ma"
@@ -1173,7 +1173,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1225,7 +1225,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "98+8'",
+      "minute": "99+9'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1277,7 +1277,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "23'",
+      "minute": "24'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null

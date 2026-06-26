@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T04:01:04.010Z",
-    "lastUpdated": "2026-06-26T04:01:04.010Z",
+    "version": "2026-06-26T04:02:04.011Z",
+    "lastUpdated": "2026-06-26T04:02:04.011Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -359,10 +359,10 @@
       "home": "Paraguay",
       "away": "Australia",
       "group": "Group D",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -1592,13 +1592,13 @@
       },
       {
         "team": "Australia",
-        "pts": 3,
+        "pts": 4,
         "gd": "0",
         "flag": "au"
       },
       {
         "team": "Paraguay",
-        "pts": 3,
+        "pts": 4,
         "gd": "-2",
         "flag": "py"
       },

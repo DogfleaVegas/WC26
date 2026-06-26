@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T04:06:04.018Z",
-    "lastUpdated": "2026-06-26T04:06:04.018Z",
+    "version": "2026-06-26T04:07:04.021Z",
+    "lastUpdated": "2026-06-26T04:07:04.021Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -360,8 +360,8 @@
       "away": "Australia",
       "group": "Group D",
       "status": "FT",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": 0,
+      "awayScore": 0,
       "minute": "finished",
       "channel": "Matchday 15",
       "flagHome": "py",

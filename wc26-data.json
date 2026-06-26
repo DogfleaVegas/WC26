@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T15:09:43.755Z",
-    "lastUpdated": "2026-06-26T15:09:43.755Z",
+    "version": "2026-06-26T15:10:43.757Z",
+    "lastUpdated": "2026-06-26T15:10:43.757Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -812,8 +812,8 @@
       "away": "Iraq",
       "group": "Group I",
       "status": "NS",
-      "homeScore": "0",
-      "awayScore": "0",
+      "homeScore": "null",
+      "awayScore": "null",
       "minute": null,
       "channel": "Matchday 16",
       "flagHome": "sn",

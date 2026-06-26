@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-26T01:14:03.679Z",
-    "lastUpdated": "2026-06-26T01:14:03.679Z",
+    "version": "2026-06-26T01:15:03.680Z",
+    "lastUpdated": "2026-06-26T01:15:03.680Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -347,7 +347,7 @@
       "away": "USA",
       "group": "Group D",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 15",
       "flagHome": null,
       "flagAway": null
@@ -362,7 +362,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 15",
       "flagHome": "py",
       "flagAway": "au"
@@ -617,7 +617,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -632,7 +632,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -707,7 +707,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -887,7 +887,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -902,7 +902,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "14'",
+      "minute": "15'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -962,7 +962,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -977,7 +977,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "89'",
+      "minute": "90'",
       "channel": "Matchday 17",
       "flagHome": "co",
       "flagAway": "pt"
@@ -990,7 +990,7 @@
       "away": "Uzbekistan",
       "group": "Group K",
       "status": "NS",
-      "minute": "89'",
+      "minute": "90'",
       "channel": "Matchday 17",
       "flagHome": "cd",
       "flagAway": "uz"
@@ -1121,7 +1121,7 @@
       "away": "Morocco",
       "group": "",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": "ma"
@@ -1173,7 +1173,7 @@
       "away": "3C/E/F/H/I",
       "group": "",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1225,7 +1225,7 @@
       "away": "2L",
       "group": "",
       "status": "NS",
-      "minute": "119+29'",
+      "minute": "120+30'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1251,7 +1251,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Round of 32",
       "flagHome": "ch",
       "flagAway": null
@@ -1277,7 +1277,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "44'",
+      "minute": "45'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1446,7 +1446,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1979,7 +1979,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "59'",
+      "minute": "60'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"

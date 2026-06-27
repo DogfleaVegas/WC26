@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T03:03:05.646Z",
-    "lastUpdated": "2026-06-27T03:03:05.646Z",
+    "version": "2026-06-27T03:04:05.646Z",
+    "lastUpdated": "2026-06-27T03:04:05.646Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -631,10 +631,10 @@
       "home": "New Zealand",
       "away": "Belgium",
       "group": "Group G",
-      "status": "NS",
-      "homeScore": "null",
-      "awayScore": "null",
-      "minute": "120+30'",
+      "status": "LIVE",
+      "homeScore": "0",
+      "awayScore": "0",
+      "minute": "live",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -889,7 +889,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "108+18'",
+      "minute": "109+19'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -904,7 +904,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "108+18'",
+      "minute": "109+19'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"

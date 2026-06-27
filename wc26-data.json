@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T04:59:05.723Z",
-    "lastUpdated": "2026-06-27T04:59:05.723Z",
+    "version": "2026-06-27T05:00:05.724Z",
+    "lastUpdated": "2026-06-27T05:00:05.724Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -631,10 +631,10 @@
       "home": "New Zealand",
       "away": "Belgium",
       "group": "Group G",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "1",
       "awayScore": "5",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -1669,16 +1669,16 @@
     ],
     "Group G": [
       {
+        "team": "Belgium",
+        "pts": 5,
+        "gd": "+4",
+        "flag": "be"
+      },
+      {
         "team": "Egypt",
         "pts": 4,
         "gd": "+2",
         "flag": "eg"
-      },
-      {
-        "team": "Belgium",
-        "pts": 2,
-        "gd": "0",
-        "flag": "be"
       },
       {
         "team": "Iran",
@@ -1689,7 +1689,7 @@
       {
         "team": "New Zealand",
         "pts": 1,
-        "gd": "-2",
+        "gd": "-6",
         "flag": "nz"
       }
     ],

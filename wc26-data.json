@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T05:05:05.760Z",
-    "lastUpdated": "2026-06-27T05:05:05.760Z",
+    "version": "2026-06-27T05:06:05.776Z",
+    "lastUpdated": "2026-06-27T05:06:05.776Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -616,10 +616,10 @@
       "home": "Egypt",
       "away": "Iran",
       "group": "Group G",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "1",
       "awayScore": "1",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -1676,13 +1676,13 @@
       },
       {
         "team": "Egypt",
-        "pts": 4,
+        "pts": 5,
         "gd": "+2",
         "flag": "eg"
       },
       {
         "team": "Iran",
-        "pts": 2,
+        "pts": 3,
         "gd": "0",
         "flag": "ir"
       },

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T03:07:05.647Z",
-    "lastUpdated": "2026-06-27T03:07:05.647Z",
+    "version": "2026-06-27T03:08:05.647Z",
+    "lastUpdated": "2026-06-27T03:08:05.647Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -617,7 +617,7 @@
       "away": "Iran",
       "group": "Group G",
       "status": "LIVE",
-      "homeScore": "0",
+      "homeScore": "1",
       "awayScore": "0",
       "minute": "live",
       "channel": "Matchday 16",
@@ -889,7 +889,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -904,7 +904,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "112+22'",
+      "minute": "113+23'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"

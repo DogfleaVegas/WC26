@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T02:00:05.650Z",
-    "lastUpdated": "2026-06-27T02:00:05.650Z",
+    "version": "2026-06-27T02:01:05.652Z",
+    "lastUpdated": "2026-06-27T02:01:05.652Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -619,7 +619,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -634,7 +634,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -706,10 +706,10 @@
       "home": "Cape Verde",
       "away": "Saudi Arabia",
       "group": "Group H",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 16",
       "flagHome": "cv",
       "flagAway": "sa"
@@ -889,7 +889,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "60'",
+      "minute": "46'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -904,7 +904,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "60'",
+      "minute": "46'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -964,7 +964,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -1257,7 +1257,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Round of 32",
       "flagHome": "ch",
       "flagAway": null
@@ -1283,7 +1283,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "75'",
+      "minute": "76'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1452,7 +1452,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1702,7 +1702,7 @@
       },
       {
         "team": "Cape Verde",
-        "pts": 2,
+        "pts": 3,
         "gd": "0",
         "flag": "cv"
       },
@@ -1714,7 +1714,7 @@
       },
       {
         "team": "Saudi Arabia",
-        "pts": 1,
+        "pts": 2,
         "gd": "-4",
         "flag": "sa"
       }
@@ -1985,7 +1985,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "105+15'",
+      "minute": "106+16'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"

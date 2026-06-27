@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T04:58:05.721Z",
-    "lastUpdated": "2026-06-27T04:58:05.721Z",
+    "version": "2026-06-27T04:59:05.723Z",
+    "lastUpdated": "2026-06-27T04:59:05.723Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -618,7 +618,7 @@
       "group": "Group G",
       "status": "LIVE",
       "homeScore": "1",
-      "awayScore": "1",
+      "awayScore": "2",
       "minute": "live",
       "channel": "Matchday 16",
       "flagHome": "eg",
@@ -633,7 +633,7 @@
       "group": "Group G",
       "status": "LIVE",
       "homeScore": "1",
-      "awayScore": "4",
+      "awayScore": "5",
       "minute": "live",
       "channel": "Matchday 16",
       "flagHome": "nz",

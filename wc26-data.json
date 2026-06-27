@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T05:09:05.779Z",
-    "lastUpdated": "2026-06-27T05:09:05.779Z",
+    "version": "2026-06-27T05:10:05.781Z",
+    "lastUpdated": "2026-06-27T05:10:05.781Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -617,8 +617,8 @@
       "away": "Iran",
       "group": "Group G",
       "status": "FT",
-      "homeScore": "1",
-      "awayScore": "1",
+      "homeScore": 1,
+      "awayScore": 1,
       "minute": "finished",
       "channel": "Matchday 16",
       "flagHome": "eg",

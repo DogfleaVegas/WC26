@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T05:04:05.759Z",
-    "lastUpdated": "2026-06-27T05:04:05.759Z",
+    "version": "2026-06-27T05:05:05.760Z",
+    "lastUpdated": "2026-06-27T05:05:05.760Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -632,8 +632,8 @@
       "away": "Belgium",
       "group": "Group G",
       "status": "FT",
-      "homeScore": "1",
-      "awayScore": "5",
+      "homeScore": 1,
+      "awayScore": 5,
       "minute": "finished",
       "channel": "Matchday 16",
       "flagHome": "nz",

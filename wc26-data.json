@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2026-06-27T02:02:05.653Z",
-    "lastUpdated": "2026-06-27T02:02:05.653Z",
+    "version": "2026-06-27T02:03:05.655Z",
+    "lastUpdated": "2026-06-27T02:03:05.655Z",
     "sources": [
       "openfootball",
       "worldcup26.ir"
@@ -619,7 +619,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Matchday 16",
       "flagHome": "eg",
       "flagAway": "ir"
@@ -634,7 +634,7 @@
       "status": "NS",
       "homeScore": "null",
       "awayScore": "null",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Matchday 16",
       "flagHome": "nz",
       "flagAway": "be"
@@ -721,10 +721,10 @@
       "home": "Uruguay",
       "away": "Spain",
       "group": "Group H",
-      "status": "LIVE",
+      "status": "FT",
       "homeScore": "0",
       "awayScore": "1",
-      "minute": "live",
+      "minute": "finished",
       "channel": "Matchday 16",
       "flagHome": "uy",
       "flagAway": "es"
@@ -889,7 +889,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "47'",
+      "minute": "48'",
       "channel": "Matchday 17",
       "flagHome": "dz",
       "flagAway": "at"
@@ -904,7 +904,7 @@
       "status": "NS",
       "homeScore": "0",
       "awayScore": "0",
-      "minute": "47'",
+      "minute": "48'",
       "channel": "Matchday 17",
       "flagHome": "jo",
       "flagAway": "ar"
@@ -964,7 +964,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
@@ -1257,7 +1257,7 @@
       "away": "3E/F/G/I/J",
       "group": "",
       "status": "NS",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Round of 32",
       "flagHome": "ch",
       "flagAway": null
@@ -1283,7 +1283,7 @@
       "away": "3D/E/I/J/L",
       "group": "",
       "status": "NS",
-      "minute": "77'",
+      "minute": "78'",
       "channel": "Round of 32",
       "flagHome": null,
       "flagAway": null
@@ -1452,7 +1452,7 @@
       "away": "W96",
       "group": "",
       "status": "NS",
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Quarter-final",
       "flagHome": null,
       "flagAway": null
@@ -1696,8 +1696,8 @@
     "Group H": [
       {
         "team": "Spain",
-        "pts": 4,
-        "gd": "+4",
+        "pts": 7,
+        "gd": "+5",
         "flag": "es"
       },
       {
@@ -1707,16 +1707,16 @@
         "flag": "cv"
       },
       {
-        "team": "Uruguay",
-        "pts": 2,
-        "gd": "0",
-        "flag": "uy"
-      },
-      {
         "team": "Saudi Arabia",
         "pts": 2,
         "gd": "-4",
         "flag": "sa"
+      },
+      {
+        "team": "Uruguay",
+        "pts": 2,
+        "gd": "-1",
+        "flag": "uy"
       }
     ],
     "Group I": [
@@ -1985,7 +1985,7 @@
       "status": "FT",
       "homeScore": 1,
       "awayScore": 0,
-      "minute": "107+17'",
+      "minute": "108+18'",
       "channel": "Matchday 13",
       "flagHome": "co",
       "flagAway": "cd"
